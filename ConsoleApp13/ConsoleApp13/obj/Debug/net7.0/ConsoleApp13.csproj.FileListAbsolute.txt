@@ -1,0 +1,15 @@
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.exe
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.deps.json
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.runtimeconfig.json
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.dll
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net7.0\ConsoleApp13.pdb
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.dll
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\refint\ConsoleApp13.dll
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.pdb
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ConsoleApp13.genruntimeconfig.cache
+C:\Users\Maxx\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net7.0\ref\ConsoleApp13.dll
